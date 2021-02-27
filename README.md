@@ -40,4 +40,5 @@ It contains 5 Funcions
 ---> down() : This function rotates dice to the Down side.
 
 with regards,
+
 Rafi Shaik
